@@ -8,5 +8,7 @@ Beelzebub
 deathnote
 evilbox
 corrosion:1
+doubletrouble
+pylington
 ```
 
