@@ -1,13 +1,33 @@
-### easy
+## Series
+
+#### Empire
+
+```
+Empire:Breakout
+Empire: LupinOne 
+```
+
+
+
+#### Corrosion
+
+```
+corrosion:1
+```
+
+
+
+
+
+Single
 
 ```
 jangow01
 Earth
-Breakout
 Beelzebub
 deathnote
 evilbox
-corrosion:1
+
 doubletrouble
 pylington
 ```
